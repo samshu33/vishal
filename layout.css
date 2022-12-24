@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background-color: aqua;
+    height:100vh;
+    display: flex;
+}
+.aside{
+    background-color: red;
+    flex-basis: 20%;
+    display: flex;
+    flex-direction: column;
+}
+.box1{
+    background-color: chartreuse;
+    flex-grow: 2;
+}
+.box2{
+    background-color: red;
+    flex-grow: 4;
+}
+.section{
+    background-color: yellow;
+    flex-basis: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    background-color: green;
+    flex-basis: 30%;
+    display: flex;
+    flex-direction: column;
+}
+.first{
+    background-color: palevioletred;
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.ten{
+    display: flex;
+   
+}
+.nine{
+    list-style: none;
+    font-size: 20px;
+   
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+.second{
+    background-color: rgb(51, 225, 25);
+    flex-grow: 1;
+}
+.third{
+    background-color: tomato;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+}
+
+.container{
+    background-color: blue;
+    flex-basis: 70%;
+    display: flex;
+}
+.one{
+    background-color: darkgoldenrod;
+    flex-basis: 70%;
+}
+.one p{
+    font-size: 20px;
+}
+.two{
+    background-color: crimson;
+    flex-basis: 30%;
+    display: flex;
+    flex-direction: column;
+}
+.vishal{
+    background-color: darkgray;
+    flex-grow: 2;
+    display: flex;
+}
+.photo{
+    flex-basis: 50%;
+    background-color: brown;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.abhishek{
+    background-color: royalblue;
+    flex-grow: 4;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   padding-top: 20%;
+   
+}

@@ -1,0 +1,38 @@
+main{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+header{
+    background-color: red;
+    flex-grow: 1;
+}
+section{
+    background-color: green;
+    flex-grow: 1;
+    display: flex;
+  
+ 
+}
+.left{
+    background-color: brown;
+    flex-basis: 400px;
+    flex-grow: 3;
+    flex-shrink: 2;
+}
+.middle{
+    background-color: chartreuse;
+    flex-basis: 400px;
+    flex-grow: 6;
+    flex-shrink: 2;
+}
+.right{
+    background-color: cadetblue;
+    flex-basis: 400px;
+    flex-grow: 3;
+    flex-shrink: 2;
+}
+footer{
+    background-color: blue;
+    flex-grow: 1;
+}

@@ -1,0 +1,14 @@
+*{
+    background-color: tomato;
+    text-align: left;
+}
+h1{
+    color: rgb(60, 220, 245);
+    text-align: center;
+}
+ol >li{
+    font-size: 30px;
+    font-weight: bold;
+    color: yellow;
+    background-color: white;
+}

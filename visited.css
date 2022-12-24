@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+    background-color: darkorange;
+    font-size: 30px;
+
+}
+h1{
+    font-size: 60px;
+}
+
+a:visited{
+    color: white;
+    font-size: 50px;
+    font-style: italic;
+}

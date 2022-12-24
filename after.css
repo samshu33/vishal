@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(234, 23, 217);
+    text-align: center  ;
+}
+p::after{
+    content:"Hello everyone i am vishal";
+    background-color: greenyellow;
+    font-size: 30px;
+    color: rgb(234, 8, 8);
+}

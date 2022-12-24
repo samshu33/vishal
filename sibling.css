@@ -1,0 +1,12 @@
+*{
+    text-align: center  ;
+}
+h1~h2{
+    color: red;
+}
+h1~h3~h5{
+    color: blue;
+}
+.one{
+    color: palevioletred;
+}

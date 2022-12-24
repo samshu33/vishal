@@ -1,0 +1,12 @@
+.one{
+    visibility: hidden;
+}
+.two{
+    border-collapse: collapse;
+}
+.three{
+    padding: 100px 50px 100px 50px;
+}
+.four{
+    margin-left: 150px;
+}

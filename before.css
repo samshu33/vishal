@@ -1,0 +1,10 @@
+*{
+    background-color: chocolate;
+    text-align: center  ;
+}
+p::before{
+    content:"Hello everyone i am vishal";
+    background-color: blue;
+    font-size: 30px;
+    color: gray;
+}

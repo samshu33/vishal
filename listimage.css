@@ -1,0 +1,22 @@
+*{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-weight: bold;
+}
+
+ul{
+
+    list-style-position: outside;
+    list-style-image: url(bullets/images.png) ;
+
+    
+   
+}
+li{
+    border: 5px solid red;
+    color: yellow;
+    font-size: 50px;
+}
