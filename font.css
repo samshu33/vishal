@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Salt font;
+    src: url(fonts/Salt\ Debris.otf);
+}
+
+
+
+
+*{
+    background-color: darkcyan;
+}
+
+h1{
+  color: yellow;
+}
+h2{
+   font-size: larger;
+}
+h3{
+    font-style: oblique;
+}
+h4{
+    font-variant: small-caps;
+}
+h5{
+    font-weight: bolder;
+}
+h6{
+    font-family: Salt font;
+}

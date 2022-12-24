@@ -1,0 +1,81 @@
+.main{
+    background-color: brown;
+    height: 1500px;
+    width: 1350px;
+    margin-left: 500px;
+    margin-top: 150px;
+    border: 5px solid white;
+    border-radius: 100px;
+}
+.middle{
+    background-color: yellow;
+    height: 1300px;
+    width: 1350px;
+    position: relative;
+    margin-top: 100px;
+
+}
+
+.one img{
+    height: 390px;
+    width: 400px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.four img{
+    height: 390px;
+    width: 400px;
+    position: absolute;
+    top: 30px;
+    left: 430px;
+    margin-left: 20px;
+}
+.five img{
+    height: 390px;
+    width: 400px;
+    position: absolute;
+    left: 450px;
+    top: 454px;
+    
+}
+.six img{
+    height: 390px;
+    width: 400px;
+    position: absolute;
+    left: 450px;
+    top: 878px;
+    
+}
+.seven{
+    background-image: url(images/5.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.seven {
+
+    height: 1240px;
+    width: 450px;
+    position: absolute;
+    left: 880px;
+    top: 30px;
+    
+}
+.two img{
+    height: 390px;
+    width: 400px;
+    position: relative;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+
+.three img{
+    height: 390px;
+    width: 400px;
+    position: relative;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+

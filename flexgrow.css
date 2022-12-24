@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+main{
+    background-color: red;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+header{
+    background-color: cyan;
+    flex-grow: 1;
+    display: flex;
+}
+.logo{
+    background-color: fuchsia;
+    flex-grow: 1;
+
+}
+.menu{
+    background-color: forestgreen;
+    flex-grow: 8;
+    display: flex;
+    flex-direction: column;
+}
+.nav{
+    background-color: darkgoldenrod;
+    flex-grow: 3;
+}
+.social{
+    background-color: crimson;
+    flex-grow: 3;
+}
+section{
+    background-color: darkkhaki;
+    flex-grow: 4;
+    display: flex;
+}
+.section1{
+    background-color: coral;
+    flex-grow: 1
+}
+.section2{
+    background-color: darkblue;
+    flex-grow: 4;
+}
+.section3{
+    background-color: darkolivegreen;
+    flex-grow: 1;
+}
+footer{
+    background-color: darkgoldenrod;
+    flex-grow: 1;
+}

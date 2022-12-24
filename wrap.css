@@ -1,0 +1,50 @@
+*{
+    background-color: aqua;
+    font-size: 50px;
+}
+h1{
+    text-align: center;
+    color: tomato;
+    border: 5px black solid;
+    font-weight: lighter;
+}
+
+main{
+    border: 6px solid black;
+    height: 400px;
+    width: 1000px;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+}
+.one{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    text-align: center;
+
+}
+.two{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+    text-align: center;
+}
+.three{
+    height: 300px;
+    width: 300px;
+    background-color: blue; 
+    text-align: center;
+}
+.four{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    text-align: center;
+}
+.five{
+    height: 300px;
+    width: 300px;
+    background-color: skyblue;
+    text-align: center;
+}

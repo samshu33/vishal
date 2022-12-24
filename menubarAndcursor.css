@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar ul{
+    list-style: none;
+    background-color: red;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+
+}
+li{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: white;
+    width: 100px;
+    display: block;
+    padding: 30px 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font: 40px;
+}
+a:hover{
+    background-color: black;
+    color: green;
+    cursor: crosshair;
+}
+.vishal{
+    border: 2px solid black;
+    background-color: brown;
+    font-size: 50px;
+    height: 50px;
+    width: 150px;
+    margin-left: 600px;
+    text-align: center;
+}
+.vishal:hover{
+    cursor: crosshair;
+    color: yellow;
+    font-size: 100px;
+}
+.Abhi{
+    border: 2px solid black;
+    background-color: brown;
+    font-size: 50px;
+    height: 50px;
+    width: 150px;
+    margin-left: 600px;
+    text-align: center;
+}
+.Abhi:hover{
+    cursor: grab;
+    color: white;
+    font-size: 50px;
+}
+.sam{
+    border: 2px solid black;
+    background-color: brown;
+    font-size: 50px;
+    height: 50px;
+    width: 150px;
+    margin-left: 600px;
+    text-align: center;
+}
+.sam:hover{
+    cursor: alias;
+    color: green;
+    font-size: 80px;
+}
+p{
+    font-size: 50px;
+}

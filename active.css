@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: palevioletred;
+}
+button{
+    padding: 30px;
+    display: block;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    border: 5px solid white;
+}
+button:active{
+    background-color: green;
+    font-size: 50px;
+}

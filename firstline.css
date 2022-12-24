@@ -1,0 +1,9 @@
+*{
+    background-color: rgb(18, 204, 250);
+    text-align: center  ;
+}
+p::first-line{
+    background-color: rgb(47, 255, 0);
+    font-size: 30px;
+    color: rgb(236, 121, 5);
+}

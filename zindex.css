@@ -1,0 +1,32 @@
+body{
+height: 800px;
+width: 1000px;
+}
+.one{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 400px;
+    z-index: 2;
+}
+.two{
+    height: 400px;
+    width: 400px;
+    background-color: green;
+    margin-left: 510px;
+    position: absolute;
+    margin-top: 300px;
+    z-index: 3;
+}
+.three{
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    position: absolute;
+    margin-left: 720px;
+    margin-top: 200px;
+    z-index: 1;
+
+}

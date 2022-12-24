@@ -1,0 +1,25 @@
+*{
+    background-color: goldenrod;
+    color: rgb(131, 10, 10);
+}
+h1{
+text-align: center;
+}
+h2{
+text-decoration: line-through;
+}
+h3{
+ text-transform: uppercase;
+}
+h4{
+letter-spacing: 15px;
+text-transform: uppercase;
+}
+h5{
+word-spacing: 50px;
+text-transform: uppercase;
+}
+h6{
+text-shadow: 4px 2px 2px green;
+font-size: 40px;
+}

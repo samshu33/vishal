@@ -1,0 +1,43 @@
+.text{
+    height: 800px;
+    width: 800px;
+    border: 10px solid red;
+    overflow: hidden;
+    background-image: url(images/IMG_20210206_181715-01.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.text1{
+    height: 500px;
+    width: 500px;
+    border: 5px solid blue;
+    overflow: scroll;
+    background-image: url(images/IMG_2884.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text2{
+    height: 300px;
+    width: 300px;
+    border: 10px dashed greenyellow;
+    float: right;
+    overflow: visible;
+    position: relative;
+    padding: 0;
+    background-image: url(images/IMG_4754\ vish-01.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: sandybrown;
+}
+.text3{
+height: 400px;
+width: 400px;
+border: 8px dotted green;
+position: absolute;
+float: right;
+overflow: auto;
+background-image: url(images/attractive-woman-appointment-eye-specialist-office.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}

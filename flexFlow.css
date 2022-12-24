@@ -1,0 +1,70 @@
+*{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+main{
+    border: 5px solid black;
+    display: flex;
+    flex-flow: column-reverse;
+    
+    
+}
+.one{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+.two{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
+.three{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+section{
+    border: 5px solid black;
+    display: flex;
+    flex-flow: row-reverse;
+    
+    
+}
+.first{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+.second{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
+.third{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+article{
+    border: 5px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-flow: nowrap;
+    
+}
+.four{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+.five{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
+.six{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}

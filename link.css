@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    background-color: rgb(91, 236, 7);
+    font-size: 30px;
+
+}
+h1{
+    font-size: 60px;
+}
+a:link{
+    color: rgb(228, 80, 80);
+    font-size: 50px;
+    font-style: italic;
+}

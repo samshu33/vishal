@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+main{
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+  
+}
+.one{
+    background-color: red;
+    flex-basis: 100px;
+}
+.two{
+    background-color: green;
+    flex-basis: 400px;
+    display: flex;
+}
+.first{
+    background-color: brown;
+    order: 3;
+    flex-basis: 30%;
+
+}.second{
+    background-color: chartreuse;
+    order: 1;
+    flex-basis: 40%;
+}
+.third{
+    background-color: darkorchid;
+    order: 2;
+    flex-basis: 30%;
+}
+.three{
+    background-color: blue;
+    flex-basis: 100px;
+}
